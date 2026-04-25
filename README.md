@@ -4,5 +4,5 @@
 - [x] Let's start with some command for git
 - [x] Testing Extension Codex for create folder with HTLM/CSS
 - [x] Styling and creating something on HTLM/CSS
-- [x] Commnit and Push on Github
+- [x] Commit and Push on Github
 
