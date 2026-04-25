@@ -1,5 +1,6 @@
 # git-learning-project
 *Hello this is the repository for learning git and testing Vibe Coding with AI*
 
-Let's start with some command for git
-
+- [x] Let's start with some command for git
+- [x] Testing Extension Codex for create folder with HTLM/CSS
+- [ ] Styling and creating something on HTLM/CSS
