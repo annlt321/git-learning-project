@@ -3,4 +3,4 @@
 
 - [x] Let's start with some command for git
 - [x] Testing Extension Codex for create folder with HTLM/CSS
-- [ ] Styling and creating something on HTLM/CSS
+- [x] Styling and creating something on HTLM/CSS
